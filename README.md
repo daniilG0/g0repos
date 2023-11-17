@@ -1,1 +1,1 @@
-# g0repos
+# g0reposmy project
